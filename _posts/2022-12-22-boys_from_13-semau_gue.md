@@ -6,7 +6,7 @@ tagline: by MixDom
 tags: [ Pop Punk, Punk, Rock ]
 ---
 
-<p>Db&nbsp; Gb&nbsp; Bbm&nbsp; Ab&nbsp; Gb&nbsp; Ab</p>
+Db&nbsp; Gb&nbsp; Bbm&nbsp; Ab&nbsp; Gb&nbsp; Ab
 
 Db&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Gb&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bbm<br/>
 ...sepatu yang mengantarku melangkah<br/>
