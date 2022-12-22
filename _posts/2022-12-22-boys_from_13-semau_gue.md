@@ -78,5 +78,5 @@ tiada yang terkuat dimata kami<br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ab&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Db<br/>
 semua musuh harus kita habisi<br/>
 
-<p>Gb&nbsp; Bbm&nbsp; Ab
-Db&nbsp; Gb&nbsp; Bbm&nbsp; Ab&nbsp; Gb&nbsp; Db ~Dbm&nbsp; ~Db5</p>
+Gb&nbsp; Bbm&nbsp; Ab<br>
+Db&nbsp; Gb&nbsp; Bbm&nbsp; Ab&nbsp; Gb&nbsp; Db ~Dbm&nbsp; ~Db5
