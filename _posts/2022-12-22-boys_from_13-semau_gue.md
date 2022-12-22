@@ -7,8 +7,8 @@ tags: [ Pop Punk, Punk, Rock ]
 ---
 
 <p>Db&nbsp; Gb&nbsp; Bbm&nbsp; Ab&nbsp; Gb&nbsp; Ab</p>
-<p><br /></p>
-<p>Db&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Gb&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bbm</p>
+
+Db&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Gb&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bbm
 <p>...sepatu yang mengantarku melangkah</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ab&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Db</p>
 <p>menuju kehidupanku di SMA</p>
