@@ -302,8 +302,8 @@
         {% elsif post.excerpt  %}
           {% include _macro/post-excerpt.html %}
           <!--noindex-->
-          <div class="post-button text-center">
-            <!-- <a class="btn" href="{{ post.url | relative_url }}{% if site.scroll_to_more %}#{{ __.post.more }}{% endif %}" rel="contents">
+          <!-- <div class="post-button text-center">
+            <a class="btn" href="{{ post.url | relative_url }}{% if site.scroll_to_more %}#{{ __.post.more }}{% endif %}" rel="contents">
               <i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;{{ __.post.read_more }}
             </a>
           </div> -->
