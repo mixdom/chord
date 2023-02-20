@@ -10,7 +10,7 @@ gb {
 text-emphasis-style: 'Gb';
 }
 db {
-text-emphasis-style: 'GDb';
+text-emphasis-style: 'Db';
 }
 </style>
 
