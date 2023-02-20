@@ -6,11 +6,19 @@ tagline: by MixDom
 tags: [ Pop Punk, Punk, Rock ]
 ---
 
-Db&nbsp; Gb&nbsp; Bbm&nbsp; Ab&nbsp; Gb&nbsp; Ab
+<p>Db
+&nbsp; Gb
+&nbsp; Bbm
+&nbsp; Ab
+&nbsp; Gb
+&nbsp; Ab</p>
 
-Db&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Gb&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bbm<br/>
-...sepatu yang mengantarku melangkah<br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ab&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Db<br/>
+<p>Db
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gb
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bbm</p>
+<p>...sepatu yang mengantarku melangkah</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ab
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Db</p>
 menuju kehidupanku di SMA<br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Gb&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Bbm<br/>
 menginjak masa muda yang ceria<br/>
