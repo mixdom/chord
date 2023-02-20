@@ -6,13 +6,7 @@ tagline: by MixDom
 tags: [ Pop Punk, Punk, Rock ]
 ---
 <style>
-gb {
--webkit-text-emphasis: 'Gb';
-text-emphasis-style: 'Gb';
-}
-db {
--webkit-text-emphasis: 'Db';
-text-emphasis-style: 'Db';
+.chord {padding: -1em;
 }
 </style>
 
@@ -23,7 +17,7 @@ Db
 &nbsp; Gb
 &nbsp; Ab
 
-.<db>.</db>.sepatu y<gb>a</gb>ng mengantarku melangkah<br/>
+.<chord>Db</chord>..sepatu y<gb>a</gb>ng mengantarku melangkah<br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ab
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Db<br/>
 menuju kehidupanku di SMA<br/>
