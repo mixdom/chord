@@ -5,8 +5,12 @@ title: Boys From 13 - Semau Gue
 tagline: by MixDom
 tags: [ Pop Punk, Punk, Rock ]
 ---
-<style>gb {
-  text-emphasis: 'Gb';
+<style>
+gb {
+text-emphasis-style: 'Gb';
+}
+db {
+text-emphasis-style: 'GDb';
 }
 </style>
 
@@ -17,8 +21,7 @@ Db
 &nbsp; Gb
 &nbsp; Ab
 
-Db
-...sepatu y<gb>a</gb>ng mengantarku melangkah<br/>
+<db>.</db>..sepatu y<gb>a</gb>ng mengantarku melangkah<br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ab
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Db<br/>
 menuju kehidupanku di SMA<br/>
