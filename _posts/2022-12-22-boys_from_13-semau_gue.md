@@ -7,7 +7,7 @@ tags: [ Pop Punk, Punk, Rock ]
 ---
 <style>
 gb {
-text-emphasis-style: 'Gb';
+text-emphasis-style: 'G' 'b';
 }
 db {
 text-emphasis-style: 'Db';
@@ -21,7 +21,7 @@ Db
 &nbsp; Gb
 &nbsp; Ab
 
-<db>.</db>..sepatu y<gb>a</gb>ng mengantarku melangkah<br/>
+.<db>.</db>.sepatu y<gb>a</gb>ng mengantarku melangkah<br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ab
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Db<br/>
 menuju kehidupanku di SMA<br/>
