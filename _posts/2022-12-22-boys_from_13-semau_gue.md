@@ -7,9 +7,11 @@ tags: [ Pop Punk, Punk, Rock ]
 ---
 <style>
 gb {
-text-emphasis-style: 'G' 'b';
+-webkit-text-emphasis: 'Gb';
+text-emphasis-style: 'Gb';
 }
 db {
+-webkit-text-emphasis: 'Db';
 text-emphasis-style: 'Db';
 }
 </style>
